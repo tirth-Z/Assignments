@@ -1,4 +1,4 @@
-a=int(input("Enter the first number:"))
+a=int(input("Enter the first  number:"))
 b=int(input("Enter the second number:"))
 c=float(a)/float(b)
 print("Addition:",a+b)
